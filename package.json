@@ -10,18 +10,22 @@
     {
       "name": "Simeon Schmachtenberg",
       "email": "simeon.schmachtenberg@futavis.de"
+    },
+	{
+      "name": "Jeremy Dwyer",
+      "email": "jerdwys@gmail.com"
     }
   ],
-  "publisher": "futavis",
+  "publisher": "jerdwys",
   "version": "2.0.0",
   "license": "MIT",
-  "homepage": "https://github.com/numaru/vscode-ceedling-test-adapter",
+  "homepage": "https://github.com/jerdwys/vscode-ceedling-test-adapter",
   "repository": {
     "type": "git",
-    "url": "https://github.com/numaru/vscode-ceedling-test-adapter.git"
+    "url": "https://github.com/jerdwys/vscode-ceedling-test-adapter.git"
   },
   "bugs": {
-    "url": "https://github.com/numaru/vscode-ceedling-test-adapter/issues"
+    "url": "https://github.com/jerdwys/vscode-ceedling-test-adapter/issues"
   },
   "categories": [
     "Other"
